@@ -1,0 +1,15 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    margin: 10px;
+}
+
+.subtitle {
+    margin: 10px;
+    max-width: 80%;
+}
